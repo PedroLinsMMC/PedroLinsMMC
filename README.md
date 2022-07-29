@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, my name is Pedro 👋
 
-<!--
-**PedroLinsMMC/PedroLinsMMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a powerlifter, this and that
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on a powerlifting data analysis and viz project
+- 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I can deadlift 600 pound
+
+### Connect with me:
+[img align="left" alt="Pedro Lins | LinedIn" width="22px" src="https://github.com/PedroLinsMMC/images/blob/main/linkedin.png" />] [linkedin]
+
+<br />
+<br />
+[linkedin]: https://www.linkedin.com/in/pedrolinsmmc/
+
+### 
