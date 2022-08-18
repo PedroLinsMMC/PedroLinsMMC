@@ -7,8 +7,6 @@
 - 🌱 I’m currently learning TensorFlow and NLP  
   
 
-- 📫 How to reach me on [LinkedIn](https://www.linkedin.com/in/pedrolinsmmc/)  
-  
 
 - ⚡ Fun fact: I can deadlift 600 pound
   
