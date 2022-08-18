@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://lh3.googleusercontent.com/XmX1A7kIxKN0MYJOC-0FEl7S2gjnmlzLTOC0NZS4q5wHPi2qzz_nTAyiHgX3d23Qwwh0Yfi2PdovDfDVQE1jkqEdcHEoefGSQyTPHQ=h600" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Pedro, a full-time data scientist 👨‍💻 </div>  
   
 
