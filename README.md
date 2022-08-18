@@ -1,6 +1,6 @@
 ### Hi there, my name is Pedro 👋
 
-## I'm a engineer, data scientist and powerlifter
+## I'm an engineer, data scientist and powerlifter
 
 - 🔭 I’m currently working on a powerlifting data analysis and viz project
 - 🌱 I’m currently learning Data Science
