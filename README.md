@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://lh3.googleusercontent.com/XmX1A7kIxKN0MYJOC-0FEl7S2gjnmlzLTOC0NZS4q5wHPi2qzz_nTAyiHgX3d23Qwwh0Yfi2PdovDfDVQE1jkqEdcHEoefGSQyTPHQ=h600" align="center" style="width: 100%" />
 </div>  
   
 
@@ -93,7 +93,7 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
-WORK IN PROGRESS
+Work in progress
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
