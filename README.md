@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [Powerlifting Analytics](https://github.com/PedroLinsMMC/PowerliftingAnalytics)  
   
 
-- 🌱 I’m currently learning TensorFlow and NLP  
+- 🌱 I’m currently learning Data Science  
   
 
 
