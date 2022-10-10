@@ -1,4 +1,4 @@
-### <div align="center">I'm Pedro, a full-time data scientist 👨‍💻 </div>  
+### <div align="center">I'm Pedro, data scientist 👨‍💻 </div>  
   
 
 - 🔭 I’m currently working on [Powerlifting Analytics](https://github.com/PedroLinsMMC/Powerlifting-Analytics)  
@@ -6,7 +6,6 @@
 
 - 🌱 I’m currently learning Data Science  
   
-
 
 - ⚡ Fun fact: I can deadlift 600 pound
   
