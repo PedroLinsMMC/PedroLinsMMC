@@ -1,7 +1,7 @@
 ### <div align="center">I'm Pedro, a full-time data scientist 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on [Powerlifting Analytics](https://github.com/PedroLinsMMC/PowerliftingAnalytics)  
+- 🔭 I’m currently working on [Powerlifting Analytics](https://github.com/PedroLinsMMC/Powerlifting-Analytics)  
   
 
 - 🌱 I’m currently learning Data Science  
