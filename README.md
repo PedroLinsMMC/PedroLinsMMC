@@ -1,7 +1,7 @@
 ### <div align="center">I'm Pedro, mechanical engineer, powerlifter and data scientist 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on [Powerlifting Analytics](https://github.com/PedroLinsMMC/Powerlifting-Analytics)  
+- 🔭 I’m currently working on [Powerlifting Analytics](https://github.com/PedroLinsMMC/PowerliftingAnalytics)  
   
 
 - 🌱 I’m currently learning Data Science  
