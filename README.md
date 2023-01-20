@@ -1,4 +1,4 @@
-### <div align="center">I'm Pedro, engineer, and business analytics and big data 👨‍💻 </div>  
+### <div align="center">I'm Pedro, mechanical engineer and love business analytics and big data 👨‍💻 </div>  
   
 
 - 🔭 I’m currently working on [Powerlifting Analytics](https://github.com/PedroLinsMMC/PowerliftingAnalytics)  
