@@ -1,14 +1,7 @@
-### <div align="center">I'm Pedro, becoming a full stack data scientist 👨‍💻 </div>  
+### <div align="center">I'm Pedro, and I help businesses grow through Lean Analytics. 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on [Powerlifting Analytics](https://github.com/PedroLinsMMC/PowerliftingAnalytics)  
-  
-
-- 🌱 I’m currently learning Data Science  
-  
-
-- ⚡ Fun fact: I can deadlift 600 pound
-  
+- 🔭 I’m currently working on [Powerlifting Analytics](https://github.com/PedroLinsMMC/PowerliftingAnalytics)    
   
 
 <br/>  
