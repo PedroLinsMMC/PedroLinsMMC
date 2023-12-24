@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro</h1>
 <h3 align="center">Solving business problems with Data Science</h3>
 
-- 📝 I regularly write articles on [www.medium.com/@PedroLinsMMC](www.medium.com/@PedroLinsMMC)
+- 📝 I write articles on [medium.com/@PedroLinsMMC](medium.com/@PedroLinsMMC)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
