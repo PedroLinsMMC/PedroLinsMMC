@@ -1,9 +1,4 @@
-### <div align="center">I'm Pedro, and I'm a BI specialist. 👨‍💻 </div>  
-
-- 📚 I'm enrolled on the IBM Full Stack Software Developer Professional Certificate Course
-- 🔭 I’m currently working on [Powerlifting Analytics](https://github.com/PedroLinsMMC/PowerliftingAnalytics)    
-
-
+### <div align="center">I'm Pedro, and I like solving business problems using tech. 👨‍💻 </div>  
 <br/>  
 
 
